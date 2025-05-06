@@ -1,11 +1,16 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Demo page 
+description: taking a look 
 ---
 
-## Welcome to another page
+## Welcome to the Demo Page
 
-_yay_
+## Take a peak at our game :)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-[back](./)
+### You can even watch a short video if you like! 
+<video src="path/to/video.mp4" width="640" height="480" controls></video>
+
+[Back to Main Page](./)
+ 
