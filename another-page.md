@@ -7,9 +7,9 @@ description: taking a look
 ## Welcome to the Demo Page
 
 ## Take a peak at some of our game :)
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![geo1](/home/irene/eneri4.github.io/geo1.png)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![geo2](/home/irene/eneri4.github.io/geo2.png)
 
 ### You can even watch a short video if you like! 
 <video src="/home/irene/eneri4.github.io/softdes_final_recording_25.mp4" width="640" height="480" controls></video>
